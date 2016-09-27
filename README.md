@@ -10,3 +10,5 @@ The following website is being designed and developed using PHP (code Igniter ) 
 4) Edit Article of the respective accunt and store it as an entry to the database.
 5) Delete Article from the database.
 6) Add Pagination to the set of blogs
+
+The following project is being developed under the esteem supervision of Dr. Bina Ramamurthy
